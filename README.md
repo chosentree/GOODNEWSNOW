@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @GOODNEWSNOW
-- 
+👋 Hi, GOODMORNING!
+
+
 //第12日//
 
 你们得救是本乎恩，也因着信；
