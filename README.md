@@ -22,9 +22,9 @@
 _ _ _
 
 # /往期背诵经文/
-[往期背诵经文](https://pages.github.com/)
-_ _ _
+
+[往期背诵经文](https://github.com/GOODNEWSNOW/GOODNEWSNOW/blob/main/past%20scripture.md)
 
 # /往日与恩典同行/
 
-[往日与恩典同行](https://pages.github.com/)
+[往日与恩典同行](https://github.com/GOODNEWSNOW/GOODNEWSNOW/blob/main/past%20food.md)
